@@ -37,6 +37,24 @@ Tendo feito isso, execute o arquivo do seu jogo novamente:
 ![image](https://github.com/LucasSTDev/Documentation-Engine/assets/116840737/6c504d85-eccc-47d2-a831-3839389b40b4)
 
 
+------------------------------- FIMOSSE ------------------------------------
+<br/>
+Faça o dowload do utilitario mpg123.
+~~~sh
+sudo apt-get install mpg123
+~~~
+ou,
+~~~sh
+sudo yum install mpg123
+~~~
+<br/>
+
+Para ter uma implementação de som na engine vocé deve dividir o comdigo aseguir em arquivos .cpp .hpp , na mesma pasta da engine
+<br/>
+![image](https://github.com/D4Fi/Engine-games-C-/assets/139288494/ea54c45b-2eb2-43ee-89c5-937b9ffbce9d)<br/>
+![image](https://github.com/D4Fi/Engine-games-C-/assets/139288494/226aff54-4d6e-4295-8b8b-a5c7b2efd0db)<br/>
+
+
 
 
 
